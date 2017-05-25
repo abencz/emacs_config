@@ -6,6 +6,7 @@
 
 (setq tramp-default-method "ssh")
 (setq column-number-mode t)
+(show-paren-mode t)
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
@@ -15,7 +16,7 @@
  '(custom-safe-themes
    (quote
     ("d677ef584c6dfc0697901a44b885cc18e206f05114c8a3b7fde674fce6180879" default)))
- '(package-selected-packages (quote (helm-ros solarized-theme))))
+ '(package-selected-packages (quote (google-c-style helm-ros racket-mode solarized-theme))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

@@ -1,5 +1,7 @@
 ## Required MELPA Packages
 
-* solarized-theme
-* helm-ros
 * ac-helm
+* google-c-style
+* helm-ros
+* racket-mode
+* solarized-theme
